@@ -15,4 +15,23 @@ This repository offers comprehensive documentation for the DataFest Data Enginee
 - Built Using Snowflake & SQL: The entire project harnesses the capabilities of Snowflake and SQL, ensuring robust data handling and processing.
 
 
+## URL TO THE WORKSHEETS
+### STAGE DATA
+- This links to the folder containing the sheet used to stage the data from DFA23RAWDATA.RAWDATA to DFA23RAWDATA.DATAHACKERS schema
+
+url -> https://app.snowflake.com/ugriiwa/or94187/#/stage-data-fWX4Dnj4o
+
+
+### CLEAN AND TRANSFORM DATA
+- This links to the folder containing the sheets for cleaning each of  staged version for SensorData, WeatherData, SoilData, CropData, PestData, IrrigationData, LocationData in the DFA23RAWDATA.DATAHACKERS schema
+
+url -> https://app.snowflake.com/ugriiwa/or94187/#/staging-data-cleanup-fFO9pIkAL
+
+
+### FACTS AND DIMENSIONS CREATION
+- This links to the folder containing the creation of the facts and dimension tables
+
+url -> https://app.snowflake.com/ugriiwa/or94187/#/facts-and-dimensions-fIvrY0OAO
+
+
 ### Thank you for exploring our project. We welcome feedback, contributions, and queries.
