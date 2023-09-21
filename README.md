@@ -3,6 +3,9 @@ Datafest Hackathon DE project
 
 ## Welcome to the DataHackers Data Engineering Project repository, developed as part of the DataFest Hackathon.
 
+## Documentation
+The document referred to in this ReadME can be found in this repository or [here as a Google Doc](https://docs.google.com/document/d/1VgXN9dBkhDxJNh6UWarn2JFn8xn4hiS6oAV9CfTSVKI/edit?usp=sharing)
+
 ## Overview
 This repository offers comprehensive documentation for the DataFest Data Engineering (DE) project. The documentation delves deep into the structure of the project, ensuring readers have a clear understanding of its components.
 
